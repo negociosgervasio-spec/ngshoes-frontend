@@ -1,0 +1,9 @@
+input[type="submit"],
+input[type="button"] {
+    background-color: var(--color-orange-600);
+}
+
+
+/* svg {
+    color: var(--color-gray-500);
+} */
