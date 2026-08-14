@@ -31,5 +31,5 @@ Ele se conecta a um backend Node/Express com **MongoDB/Mongoose** para autentica
 
 ### 1. Clonar o repositório
 ```bash
-git clone https://github.com/seuusuario/frontend-loja.git
-cd frontend-loja
+git clone https://github.com/negociosgervasio-spec/ngshoes-frontend.git
+cd frontend
